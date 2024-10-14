@@ -1,0 +1,14 @@
+/node_modules
+/.env
+
+
+#Ecommerce Project
+#Creating a complete e-commerce project with two roles—Admin and User—using Node.js
+# and MongoDB would involve several parts. Below is a structured breakdown, including
+# authentication, role-based access, product management, order placement, and more. 
+#I'll provide the main structure for you with the key features.
+
+#To-DO
+#*To-Do application* that includes user authentication, task management, task collaboration,
+# and timers. This project will teach you fundamental backend development skills while
+# building a practical application.https://github.com/rajkashyap7733/Express-ToDo-APP
